@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1581443857 source:c:\users\user\desktop\teste_codigo\test_codigo_flavio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"rs232.h"
+
+1581424458 c:\users\user\desktop\teste_codigo\test_codigo_flavio\rs232.h
+	<stdio.h>
+	<string.h>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+	<sys/file.h>
+	<errno.h>
+	<windows.h>
+
+1581424072 source:c:\users\user\desktop\teste_codigo\test_codigo_flavio\rs232.c
+	"rs232.h"
+
+1581424072 source:c:\users\user\desktop\teste_codigo\trigger_visao\rs232.c
+	"rs232.h"
+
+1581424458 c:\users\user\desktop\teste_codigo\trigger_visao\rs232.h
+	<stdio.h>
+	<string.h>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+	<sys/file.h>
+	<errno.h>
+	<windows.h>
+
